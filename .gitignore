@@ -1,0 +1,7 @@
+.idea
+*.iml
+target
+out
+plugin.xml
+*.zip
+*.log
