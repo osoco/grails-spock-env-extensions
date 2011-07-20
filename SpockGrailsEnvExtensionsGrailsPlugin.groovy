@@ -9,5 +9,5 @@ class SpockGrailsEnvExtensionsGrailsPlugin {
     def description = '''\\
 Spock extensions that allow to execute and ignore tests for given Grails environments.
 '''
-    def documentation = 'https://github.com/osoco/grails-spock-env-extension/wiki'
+    def documentation = 'http://osoco.github.com/grails-spock-env-extensions/'
 }
