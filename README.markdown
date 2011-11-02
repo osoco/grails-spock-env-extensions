@@ -1,1 +1,1 @@
-Documentation URL: http://osoco.github.com/groovy-spock-env-extensions/
+Documentation URL: http://osoco.github.com/grails-spock-env-extensions/
