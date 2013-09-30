@@ -1,13 +1,17 @@
 class SpockGrailsEnvExtensionsGrailsPlugin {
-    def version = '0.1'
+    def version = '0.2'
     def grailsVersion = '1.3 > *'
-    def dependsOn = [spock: '0.5-groovy-1.7']
 
     def author = 'Marcin Gryszko'
-    def authorEmail = 'marcin@gryszko.net'
+    def authorEmail = 'marcin@grysz.com'
+    def organization = [name: 'OSOCO', url: 'http://osoco.es/']
     def title = 'Spock Grails environment extension'
     def description = '''\\
-Spock extensions that allow to execute and ignore tests for given Grails environments.
-'''
-    def documentation = 'http://osoco.github.com/grails-spock-env-extensions/'
+Spock extensions that allow to execute and ignore tests for given Grails environments.'''
+    def documentation = 'https://github.com/osoco/grails-spock-env-extensions'
+    def scm = [url: "https://github.com/osoco/grails-spock-env-extensions"]
+    def developers = [
+        [name: 'Marcin Gryszko', email: 'marcin.gryszko@osoco.es'],
+    ]
 }
+
