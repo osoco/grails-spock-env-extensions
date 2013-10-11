@@ -1,6 +1,6 @@
 # Introduction
 
-This plugin provides [Spock|http://code.google.com/p/spock/] extensions that allow specification and feature method inclusion and exclusion depending on the Grails execution environment.
+This plugin provides [Spock](http://spockframework.org/) extensions that allow specification and feature method inclusion and exclusion depending on the Grails execution environment.
 
 # Usage
 ```groovy
